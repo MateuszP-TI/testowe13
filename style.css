@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#glowny {
+    display: flex;
+    width: 100%;
+}
+
+#kolumna-lewa {
+    width: 50%;
+}
+
+#wewnetrzny-header {
+    background-color: aliceblue;
+    height: 100px;
+    width: 100%;
+}
+
+#lewa-dol {
+    background-color: brown;
+    height: 500px;
+    width: 100%;
+}
+
+#kolumna-prawa {
+    width: 50%;
+}
+
+#prawa-gora {
+    background-color: aquamarine;
+    height: 300px;
+    width: 100%;
+}
+
+#prawa-dol {
+    background-color: aquamarine;
+    height: 300px;
+    width: 100%;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    height: 60px;
+    width: 100%;
+}
